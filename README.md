@@ -16,7 +16,7 @@ milliseconds)
 # new Date()
 
 # You can create a date object using the new Date() constructor
-[](/images/newdate.PNG)
+![](/images/newdate.PNG)
 
 
 # new Date(milliseconds)
